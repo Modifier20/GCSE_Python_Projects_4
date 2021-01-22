@@ -1,3 +1,6 @@
+# Created By: Modifier20
+# On: Fri 22nd January 2021
+
 value = int(input("Please Enter A Value: £"))
 
 print ("Twenties: " + str((value // 20)))
