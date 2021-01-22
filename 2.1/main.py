@@ -1,3 +1,6 @@
+# Created By: Modifier20
+# On: Fri 22nd Jan - 16:33
+
 UserNum01 = input("Please Enter A Number> ")
 UserNum02 = input("Please Enter A Number> ")
 
