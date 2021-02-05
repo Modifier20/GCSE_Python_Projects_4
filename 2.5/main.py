@@ -1,3 +1,6 @@
+# Created By: Modifier20
+# On: Invalid
+
 import random
 
 num01 = 100
