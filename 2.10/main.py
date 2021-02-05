@@ -1,3 +1,6 @@
+# Created By: Modifier20
+# On: Fri 5th Feb - 14:38
+
 percentage = int(input("Please Enter A Percentage: "))
 
 if percentage <= 39:
