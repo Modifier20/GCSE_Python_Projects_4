@@ -1,3 +1,6 @@
+# Created By: Modifier20
+# On: Invalid
+
 hoursWorked = float(input("Please Enter The Number Of Hours You Worked This Week: "))
 hourlyRate = float(input("Please Enter Your Hourly Rate: "))
 
