@@ -1,3 +1,6 @@
+# Created By: Modifier20
+# On: Fri 5th Feb - 14:30
+
 number01 = int(input("Number 1> "))
 number02 = int(input("Number 2> "))
 number03 = int(input("Number 3> "))
