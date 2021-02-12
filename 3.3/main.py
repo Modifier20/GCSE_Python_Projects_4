@@ -1,2 +1,13 @@
+a = 0
+b = 0
+c = 0
 
-# NEED TO COME BACK TO THIS
+while c != "12":
+    a = a + 1
+    b = b + 1
+    square = a * b
+    print(square)
+    if c == "12":
+        break
+    else:
+        print(" ")
