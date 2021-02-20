@@ -6,11 +6,8 @@
 # keeping a running total of words.  The word count is incremented when
 # a space is detected.
 
+Sentence = input("Please Enter A Sentence Terminating in a Full Stop and Hit Enter...")
 
-#
-#
-#
-# I NEED TO COME BACK TO THIS PROJECT WHEN I CAN THINK CLEARLY
-#
-#
-#
+SentenceLength = len(Sentence)
+
+print("Your Sentence Was", SentenceLength, "Characters Long.")
