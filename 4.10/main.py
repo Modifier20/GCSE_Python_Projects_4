@@ -1,13 +1,10 @@
+PossibelPalindrome = input("Please Enter A Sentence That You Think Is A Palindrome... ")
 
-SENTENCE = str(input("Please enter a sentence here... "))
+PossibelPalindrome = PossibelPalindrome.casefold()
 
-word_list = SENTENCE.split()
-reversed_list = word_list[:: -1]
-PALINDROME = " ".join(reversed_list)
+ReversedPossiblePalindrome = reversed(PossibelPalindrome)
 
-if SENTENCE == PALINDROME:
-    print("Your Sentence is a Palidrome...")
-elif SENTENCE != PALINDROME:
-    print("Your Sentence is not a Palidrome...")
+if list(PossibelPalindrome) == list(ReversedPossiblePalindrome):
+   print("The string is a palindrome.")
 else:
-    print("You Haven't Entered A Sentence!")
+   print("The string is not a palindrome.")
