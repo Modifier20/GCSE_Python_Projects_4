@@ -1,4 +1,10 @@
 import random
+import os
+
+print()
+print("PROGRAM 5.4a RUNNING...")
+print()
+
 lotteryNumber = []
 itteration = 0
 
@@ -11,3 +17,27 @@ while itteration != 6:
         itteration = itteration + 1
 
 print("You Lottery Number's Are: ", lotteryNumber)
+
+print()
+print("PROGRAM 5.4b RUNNING...")
+print()
+
+StudentName = ["James", "Jill", "Jack", "Sophie", "Henry", "Angus"]
+DOB = ["02.05.1990", "20.12.2012", "01.01.1985", "08.08.1988", "28.02.2000", "05.02.2021"]
+
+print("STUDENT NAME(S):", StudentName)
+StudentDataRequest = input("Please Enter The Student's Position (0-5): ")
+if StudentDataRequest == "0":
+    print("Born:", DOB[0])
+elif StudentDataRequest == "1":
+    print("Born:", DOB[1])
+elif StudentDataRequest == "2":
+    print("Born:", DOB[2])
+elif StudentDataRequest == "3":
+    print("Born:", DOB[3])
+elif StudentDataRequest == "4":
+    print("Born:", DOB[4])
+elif StudentDataRequest == "5":
+    print("Born:", DOB[5])
+else:
+    print("Invalid Input...")
