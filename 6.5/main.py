@@ -12,6 +12,7 @@ def computerGeneratedGuess():
     computersGuess = random.randint(0, usersRange)
     prevGuess = computersGuess
     return computersGuess + prevGuess
+
 # THIS GENERATES THE COMPUTERS HIGHER GUESS
 def higherComputerGeneratedGuess():
     global computersGuess
@@ -19,6 +20,7 @@ def higherComputerGeneratedGuess():
     computersGuess = random.randint(prevGuess, usersRange)
     prevGuess = computersGuess
     return computersGuess + prevGuess
+
 # THIS GENERATES THE COMPUTERS LOWER GUESS
 def lowerComputerGeneratedGuess():
     global computersGuess
@@ -26,6 +28,7 @@ def lowerComputerGeneratedGuess():
     computersGuess = random.randint(0, prevGuess)
     prevGuess = computersGuess
     return computersGuess + prevGuess
+
 # THIS IS THE TRUE OF FALSE CODE
 def trueOrFalse():
     global ansStatus
