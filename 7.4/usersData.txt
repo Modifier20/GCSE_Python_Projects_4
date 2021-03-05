@@ -1,0 +1,8 @@
+Modifier
+['V', 't', 'c', 'E', 'J', 'g', 'c', '3', '3']
+Hercules
+VtcEJgc34
+Harry
+VtcEJgc35
+Henry
+VtcEJgc36
