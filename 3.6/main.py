@@ -1,16 +1,22 @@
-repeat = "false"
-sumNumber = 0
+# THIS IS THE VARIABLE
+total = 0
+average = 0
+numberToAdd = 1
+enteredNumbersArray = []
 
-import array
+while numberToAdd != 0:
+    # THIS IS WHERE THE USERS INPUT IT TAKEN IN.
+    numberToAdd = int(input("Enter A Number To Add: "))
 
-arr1 = array.array('i', [1, 2, 3])
+    # THIS IS WHERE THE MATHMATICS IS DONE AND THINGS ARE ADDED TO ARRAY'S.
+    enteredNumbersArray.append(numberToAdd)
+    total = numberToAdd + total
+    average = sum(enteredNumbersArray) / len(enteredNumbersArray)
 
-while repeat != "true":
-    number = int(input("Number> "))
-    if number != 0:
-        sumNumber = sumNumber + number
-        array.insert(array)
-    else:
-        print(array)
-        #print("Your Final Number is:", sumNumber)
-        break
+    # THIS PRINT'S OUT THE TOTALS AND AVERAGES OF THE NUMBERS THAT HAVE BEEN ENTERED.
+    print("|-- YOUR CURRENT TOTAL IS --|")
+    print("|--", total)
+
+    print("|-- YOUR CURRENT AVERAGE IS --|")
+    print("|--", average)
+    print("   ")
