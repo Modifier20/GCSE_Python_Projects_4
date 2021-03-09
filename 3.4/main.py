@@ -1,12 +1,9 @@
-repeat = "false"
-sumNumber = 0
+total = 0
+numberToAdd = 1
 
-while repeat != "true":
-    number = int(input("Number> "))
-    if number != 0:
-        sumNumber = sumNumber + number
-    else:
-        print("Your Final Number is:", sumNumber)
-        break
-
-
+while numberToAdd != 0:
+    numberToAdd = int(input("Enter A Number To Add: "))
+    total = numberToAdd + total
+    print("|-- YOUR CURRENT TOTAL IS --|")
+    print("|--", total)
+    print("   ")
