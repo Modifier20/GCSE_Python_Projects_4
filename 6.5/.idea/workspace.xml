@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9b8bcf7f-f13f-462d-8217-6be260c8a032" name="Default Changelist" comment="" />
+    <list default="true" id="9b8bcf7f-f13f-462d-8217-6be260c8a032" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../1.8/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../1.8/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3.5/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../3.5/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4.6/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../4.6/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4.7/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../4.7/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6.1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../6.1/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.1/names.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../7.1/names.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.3/usersData.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../7.3/usersData.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

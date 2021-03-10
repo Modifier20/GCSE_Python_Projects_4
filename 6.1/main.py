@@ -7,16 +7,15 @@ def takenNumber():
 
     if numberOne > numberTwo and numberThree:
         largestValue = numberOne
+        print("The largest value", numberOne)
     elif numberTwo > numberOne and numberThree:
         largestValue = numberTwo
+        print("The largest value", numberTwo)
     # THIS IS THE PROBLEMATIC CODE #####################
-    elif numberThree and numberTwo < numberThree:
+    elif numberThree < numberOne and numberTwo:
         largestValue = numberThree
     ####################################################
-
     else:
-        print("Invalid Answer...")
-    return largestValue
+        print("The largest value", numberTwo)
 
 takenNumber()
-print(largestValue)

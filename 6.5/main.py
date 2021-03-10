@@ -1,6 +1,6 @@
 import random
 attempts = 0
-ansStatus = "False"
+ansStatus = False
 
 # THIS TAKES IN THE USERS RANGE INTO THE PROGRAM
 usersRange = int(input("Please Enter A Number For The Range> "))
@@ -37,13 +37,15 @@ def trueOrFalse():
 
 computerGeneratedGuess()
 
-while ansStatus != "True":
+while ansStatus != True:
     print(computersGuess)
     trueOrFalse()
+
     #THIS PRINTS THE CONGRATULATIONS SENTENCE(S) AT THE END OF THE SCRIPT
-    if ansStatus == "True":
+    if ansStatus == True:
         print("\nThat's Amazing, I Haven't Played This Before...\nGoodbye, and have a good day.")
         print("It Took Me", attempts, "Attempts...")
+
     else:
         # THIS RUNS DIRECTS THE HIGHER OR LOWERE ENTRIES TO THE CORRECT FUNCTION AND ADD ONE TO THE ATTEMPTS SCORE.
         attempts = attempts + 1
