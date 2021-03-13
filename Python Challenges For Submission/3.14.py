@@ -1,3 +1,5 @@
+# Created & Programmed By: Modifier20
+
 zero = 0
 usersNumber = int(input("Please enter a number you want the primes up to: "))
 for number in range(zero, usersNumber + 1):

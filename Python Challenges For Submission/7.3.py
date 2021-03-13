@@ -1,3 +1,5 @@
+# Created & Programmed By: Modifier20
+
 def login():
     # THIS IS THE USERS INPUT FOR THE USER NAME
     name = input("Enter a username: ")

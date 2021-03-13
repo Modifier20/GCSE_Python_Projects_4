@@ -1,3 +1,5 @@
+# Created & Programmed By: Modifier20
+
 def countdown():
     usersInteger = int(input("Please enter a number to count down from: "))
     print(usersInteger)

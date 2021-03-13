@@ -1,3 +1,5 @@
+# Created & Programmed By: Modifier20
+
 import random
 
 randomNumber = random.randint(1, 100)

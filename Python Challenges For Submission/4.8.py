@@ -1,3 +1,5 @@
+# Created & Programmed By: Modifier20
+
 firstName = str(input("Please Enter Your First Name: "))
 secondName = str(input("Please Enter Your Second Name: "))
 

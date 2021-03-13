@@ -1,3 +1,5 @@
+# Created & Programmed By: Modifier20
+
 firstDecimalNumber = float(input("Please Enter Your First Decimal Number: "))
 secondDecimalNumber = float(input("Please Enter Your Second Decimal Number: "))
 

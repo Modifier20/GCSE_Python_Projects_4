@@ -1,3 +1,5 @@
+# Created & Programmed By: Modifier20
+
 import random
 attempts = 0
 ansStatus = False

@@ -1,5 +1,4 @@
-# Created By: Modifier20
-# On: Fri 5th Feb - 14:30
+# Created & Programmed By: Modifier20
 
 counter = 0
 while counter < 4:

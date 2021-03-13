@@ -1,3 +1,5 @@
+# Created & Programmed By: Modifier20
+
 usernamesAndPass = 'usersData.txt'
 with open(usernamesAndPass) as f_obj:
     usernamesData = f_obj.read()

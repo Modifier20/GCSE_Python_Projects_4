@@ -1,3 +1,5 @@
+# Created & Programmed By: Modifier20
+
 #weight = float(input("What is your weight? "))
 #unit = input("Kgs or Lbs? ")
 #pound = 2.20462

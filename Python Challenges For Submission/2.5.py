@@ -1,5 +1,4 @@
-# Created By: Modifier20
-# On: Invalid
+# Created & Programmed By: Modifier20
 
 import random
 

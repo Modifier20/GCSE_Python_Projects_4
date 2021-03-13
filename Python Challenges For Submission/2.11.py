@@ -1,5 +1,4 @@
-# Created By: Modifier20
-# On: Fri 5th Feb - 14:38
+# Created & Programmed By: Modifier20
 
 monthNum = int(input("Please Enter The Number of a Month: "))
 

@@ -1,5 +1,4 @@
-# Created By: Modifier20
-# On Fri 22 January 2021 - 16.27
+# Created & Programmed By: Modifier20
 
 value = int(input("Please Enter A Value: £"))
 

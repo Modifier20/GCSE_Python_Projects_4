@@ -1,3 +1,5 @@
+# Created & Programmed By: Modifier20
+
 PossibelPalindrome = input("Please Enter A Sentence That You Think Is A Palindrome... ")
 
 PossibelPalindrome = PossibelPalindrome.casefold()

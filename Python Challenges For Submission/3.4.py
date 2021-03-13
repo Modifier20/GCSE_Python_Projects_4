@@ -1,3 +1,5 @@
+# Created & Programmed By: Modifier20
+
 total = 0
 numberToAdd = 1
 

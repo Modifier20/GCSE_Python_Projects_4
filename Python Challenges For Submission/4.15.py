@@ -1,3 +1,5 @@
+# Created & Programmed By: Modifier20
+
 # THIS TAKES THE USER'S INPUT OF THEIR DATE OF BIRTH
 day = int(input("Please enter the year of your birth(dd): "))
 month = int(input("Please enter the month of your birth(mm): "))

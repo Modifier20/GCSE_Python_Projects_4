@@ -1,6 +1,4 @@
-
-# Created By: Modifier20
-# On: Fri 26nd Jan - 08:50
+# Created & Programmed By: Modifier20
 
 num01 = int(input("Please Enter The First Number>"))
 num02 = int(input("Please Enter The Second Number>"))

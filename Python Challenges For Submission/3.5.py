@@ -1,3 +1,5 @@
+# Created & Programmed By: Modifier20
+
 enteredNumber = 1
 
 enteredNumber = int(input("Please enter a number"))

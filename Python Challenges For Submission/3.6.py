@@ -1,3 +1,5 @@
+# Created & Programmed By: Modifier20
+
 # THIS IS THE VARIABLE
 total = 0
 average = 0

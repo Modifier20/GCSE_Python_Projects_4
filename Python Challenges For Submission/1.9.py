@@ -1,5 +1,4 @@
-# Created By: Modifier20
-# On: Fri 22nd January 2021
+# Created & Programmed By: Modifier20
 
 num01 = int(input("Number 1>>"))
 num02 = int(input("Number 2>>"))

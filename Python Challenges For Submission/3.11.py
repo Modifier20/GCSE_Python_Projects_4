@@ -1,3 +1,5 @@
+# Created & Programmed By: Modifier20
+
 # ENTER A NUMBER TO BE SQUARED
 number = int(input("Enter A Number"))
 

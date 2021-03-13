@@ -1,5 +1,4 @@
-# Created By: Modifier20
-# On: Fri 5th Feb - 14:38
+# Created & Programmed By: Modifier20
 
 day = int(input("Day: "))
 month = int(input("Month: "))

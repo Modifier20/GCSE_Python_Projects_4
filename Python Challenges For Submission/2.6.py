@@ -1,5 +1,4 @@
-# Created By: Modifier20
-# On: Invalid
+# Created & Programmed By: Modifier20
 
 month = int(input("Please Enter A Number Between 1-12> "))
 

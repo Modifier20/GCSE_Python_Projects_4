@@ -1,3 +1,5 @@
+# Created & Programmed By: Modifier20
+
 # Write a program that asks the user to enter a sentence, terminated
 # by a full stop and the pressing of the Enter key.  The program should
 # count the number of words and display the result.

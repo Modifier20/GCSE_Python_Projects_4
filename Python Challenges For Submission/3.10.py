@@ -1,3 +1,4 @@
+# Created & Programmed By: Modifier20
 
 # THIS TAKES IN THE USERS INPUT
 NthTermForMultiplication = int(input("Enter a number to multiply by: "))

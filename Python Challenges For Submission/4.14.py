@@ -1,3 +1,5 @@
+# Created & Programmed By: Modifier20
+
 import datetime
 
 # THIS TAKES IN THE USERS INPUT OF BIRTH YEAR, AND CALCULATES THE CURRENT YEAR.

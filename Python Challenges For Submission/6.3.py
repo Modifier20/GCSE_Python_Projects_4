@@ -1,3 +1,5 @@
+# Created & Programmed By: Modifier20
+
 numberArray = []
 
 # THIS TAKES IN THE USERS NUMBER INPUTS, AND ADDS THEM TO THE ARRAY TO BE AVERAGED

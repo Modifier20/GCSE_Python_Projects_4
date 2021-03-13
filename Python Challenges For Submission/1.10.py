@@ -1,5 +1,4 @@
-# Created By: Modifier20
-# On: Fri 22nd January 2021
+# Created & Programmed By: Modifier20
 
 length = int(input("Length: "))
 width = int(input("Width: "))

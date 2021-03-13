@@ -1,3 +1,5 @@
+# Created & Programmed By: Modifier20
+
 StudentName = [["James", "Jill", "Jack", "Sophie", "Henry", "Angus"],
                ["02.05.1990", "20.12.2012", "01.01.1985", "08.08.1988", "28.02.2000", "05.02.2021"]]
 

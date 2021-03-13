@@ -1,3 +1,5 @@
+# Created & Programmed By: Modifier20
+
 numbersArray = []
 
 integer01 = int(input("1) Please Enter Your First Number: "))

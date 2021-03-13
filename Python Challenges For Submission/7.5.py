@@ -1,3 +1,5 @@
+# Created & Programmed By: Modifier20
+
 recordWriting = open("names.txt", "a")
 
 # THIS TAKES IN THE USERS INPUT FOR THE RECORDS

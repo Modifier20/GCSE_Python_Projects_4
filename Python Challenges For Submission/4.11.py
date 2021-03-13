@@ -1,3 +1,5 @@
+# Created & Programmed By: Modifier20
+
 Number = int(input("Please Enter a Number Between 1 and 12... "))
 
 one = 1 * Number
