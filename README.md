@@ -1,5 +1,5 @@
-# PythonProjects
+# GCSE Computer Science 2021 - Python Programming Challenges
 
-----------------------------
+These Python programming challenges were completed in "Jetbrains PyCharm". All of these challenges were completed off the challenge sheet's which will not be provided at anypoint.
 
-These Are the Answers To Python GCSE Worksheet's. These aren't the best way of completing these but it is a way. 
+All of these programs are property of Modifier20.
